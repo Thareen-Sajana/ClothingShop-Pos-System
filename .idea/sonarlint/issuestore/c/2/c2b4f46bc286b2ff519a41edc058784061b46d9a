@@ -1,0 +1,43 @@
+
+w
+java:S3740""/Provide the parametrized type for this generic.(ë…×üÿÿÿÿ8ÓÚº¶„2J$f63ea2fa-de64-4819-bdfc-231ab84524f6
+w
+java:S3740$"/Provide the parametrized type for this generic.(¦Ë‘–øÿÿÿÿ8º˜»¶„2J$854ab11d-8c41-42b5-9a3b-0dfaf7a82033
+w
+java:S3740%"/Provide the parametrized type for this generic.(”›ƒœÿÿÿÿÿ8–Á»¶„2J$bfb29eb5-14ac-495a-84c7-29279bb290a1
+§
+java:S1104"dMake adminUpdateProductAnchor a static final constant or non-public and provide accessors if needed.(ÀŠ¾õ8¹Çî”2J$522088e2-fd83-4cd7-9595-2b3f38ec3857
+›
+java:S1104"XMake productIdTxt a static final constant or non-public and provide accessors if needed.(¼³Ú8ºĞ¹¶„2J$6145b7ef-7764-4f01-be14-059b57cbe50d
+¢
+java:S1104 "ZMake productNameTxt a static final constant or non-public and provide accessors if needed.(„’Ü–ıÿÿÿÿ8™’º¶„2J$5a29be7a-0414-4351-aee0-667deb7f294f
+—
+java:S1104!"TMake priceTxt a static final constant or non-public and provide accessors if needed.(ßÅĞ8Š°º¶„2J$4e49fb95-df73-413a-ade4-4242100d890e
+¦
+java:S1104""^Make supplierComboBoxId a static final constant or non-public and provide accessors if needed.(ë…×üÿÿÿÿ8ÔÚº¶„2J$243dfafc-bb05-4562-b5fa-656a3c6cb9e9
+•
+java:S1104#"RMake qtyTxt a static final constant or non-public and provide accessors if needed.(¡¼¥8Öøº¶„2J$3c872f67-ba8a-473b-844b-0aa8670a26f1
+¨
+java:S1104$"`Make categoryComboBoxId11 a static final constant or non-public and provide accessors if needed.(¦Ë‘–øÿÿÿÿ8¼˜»¶„2J$db619684-2e07-423f-9dd7-78892e2ad9b5
+¢
+java:S1104%"ZMake sizeComboBoxId a static final constant or non-public and provide accessors if needed.(”›ƒœÿÿÿÿÿ8˜Á»¶„2J$5fda78fa-af47-416d-8e3d-5b68bcd5cede
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë¤¶Üıÿÿÿÿ8ªÚĞ”2J$68277cfb-1847-4e72-8252-e0b7600ffa04
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç“»¸ûÿÿÿÿ8ªÚĞ”2J$89e3c3c7-b43e-46c7-9da4-bcbdcbd9a83b
+t
+java:S11723"2Remove this unused method parameter "actionEvent".(İùÓ-8ßÙ•2J$e2544b47-3caf-4ff4-9cb5-e968bc829ce9
+z
+java:S11729"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8ãÙ•2J$78a85eed-ce11-4272-9133-b384a8ee2be5
+z
+java:S1172?"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8ãÙ•2J$1458db25-13ba-4afc-8f26-2e9898a79c28
+z
+java:S1172E"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8äÙ•2J$021f9060-b249-4c82-9927-09e7a10517fa
+u
+java:S1172K"2Remove this unused method parameter "actionEvent".(é©Óÿ8äÙ•2J$2d6c021b-4fb7-4252-85f2-65d576c859d7
+u
+java:S1172Q"2Remove this unused method parameter "actionEvent".(æÓÏş8ş¨¦˜2J$929c85cc-af27-4745-b584-0a2aaa7a040b
+u
+java:S1172W"2Remove this unused method parameter "actionEvent".(ÜúÒœ8‘èØ˜2J$19541e18-5a38-4dea-a9ae-d9242146dde3
+O
+java:S1172]"2Remove this unused method parameter "actionEvent".(Ü¾Êº8äÁ¶„2
+U
+java:S1172†"2Remove this unused method parameter "actionEvent".(ÔÛ°ıÿÿÿÿ8 äÁ¶„2

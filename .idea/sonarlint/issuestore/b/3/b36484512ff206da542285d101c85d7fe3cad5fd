@@ -1,0 +1,55 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(—şÿ8íà€‹ƒ2J$359c5c81-cd4b-4122-b7fc-fa34c30a2562
+w
+java:S3740"/Provide the parametrized type for this generic.(ìß† ùÿÿÿÿ8íà€‹ƒ2J$d5a91dcb-46ad-4785-804c-ddbfc1376b91
+r
+java:S3740"/Provide the parametrized type for this generic.(ï§–8íà€‹ƒ2J$023f9075-7fe6-464b-95a5-7948614b1722
+w
+java:S3740"/Provide the parametrized type for this generic.(¾ˆ­úÿÿÿÿ8íà€‹ƒ2J$900d822c-b893-4f91-90d7-f6089ef1ab64
+r
+java:S3740"/Provide the parametrized type for this generic.(×µĞç8íà€‹ƒ2J$df36ed6c-b166-4b3e-a1da-3a3b99231932
+w
+java:S3740"/Provide the parametrized type for this generic.(ğ¾ê’ÿÿÿÿÿ8íà€‹ƒ2J$c27d3b68-f0ca-4929-a4be-9c4b4b671cc5
+r
+java:S3740 "/Provide the parametrized type for this generic.(Íâ…±8íà€‹ƒ2J$866c27ac-050e-49e8-84e4-1f643e8fc7de
+w
+java:S3740!"/Provide the parametrized type for this generic.(À×Ø†ÿÿÿÿÿ8íà€‹ƒ2J$1b3de31e-59d4-4243-a0ef-0e11c6d81340
+©
+java:S1104"aMake userViewProductAnchor a static final constant or non-public and provide accessors if needed.(ØÙ¹±ùÿÿÿÿ8îà€‹ƒ2J$a4b1d742-f71b-4e50-935e-9e4b3f09e352
+ 
+java:S1104"]Make viewProductsTable a static final constant or non-public and provide accessors if needed.(—şÿ8îà€‹ƒ2J$e554a7b2-d23d-4ac6-a2c3-8f0841ea8464
+£
+java:S1104"[Make productIdColumn a static final constant or non-public and provide accessors if needed.(ìß† ùÿÿÿÿ8îà€‹ƒ2J$5d5c4f16-dcfc-4fef-913e-708bcaa33e29
+ 
+java:S1104"]Make productNameColumn a static final constant or non-public and provide accessors if needed.(ï§–8îà€‹ƒ2J$ae3888e4-9514-4553-896d-dd71e44ed20d
+¦
+java:S1104"^Make supplierNameColumn a static final constant or non-public and provide accessors if needed.(¾ˆ­úÿÿÿÿ8îà€‹ƒ2J$df4331cb-bdec-4ee9-98b7-45abc91c3d69
+˜
+java:S1104"UMake qtyColumn a static final constant or non-public and provide accessors if needed.(×µĞç8îà€‹ƒ2J$87c90c1e-0910-4f8c-9230-edda6bd3663c
+
+java:S1104"VMake sizeColumn a static final constant or non-public and provide accessors if needed.(ğ¾ê’ÿÿÿÿÿ8îà€‹ƒ2J$4a854a80-b449-483d-bcdc-9aea5ce57f3c
+
+java:S1104 "ZMake categoryColumn a static final constant or non-public and provide accessors if needed.(Íâ…±8îà€‹ƒ2J$380bf921-dd31-49b4-b2a5-e7fa72de89a3
+Ÿ
+java:S1104!"WMake priceColumn a static final constant or non-public and provide accessors if needed.(À×Ø†ÿÿÿÿÿ8îà€‹ƒ2J$9b7231f0-40af-498d-abd9-f3ca77bda875
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è×±Éÿÿÿÿÿ8îà€‹ƒ2J$f76026d8-bf3c-4bd7-bb8b-608f686da574
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÿË@8ïà€‹ƒ2J$4d83f86e-a096-4b2d-9a83-3eac3d621d67
+z
+java:S1172<"2Remove this unused method parameter "actionEvent".(Ğºª”úÿÿÿÿ8á€‹ƒ2J$dae7c7af-d86d-412c-8f06-8ad6fb0b587c
+z
+java:S1172B"2Remove this unused method parameter "actionEvent".(şÚŒ³şÿÿÿÿ8„á€‹ƒ2J$1b406471-57f4-4570-aafc-62019368df3c
+z
+java:S1172H"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8„á€‹ƒ2J$a9906c8c-614e-460d-93e5-3a6640cf579a
+z
+java:S1172N"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8…á€‹ƒ2J$bd654c24-7ead-4baa-97fd-f4c61da76015
+u
+java:S1172T"2Remove this unused method parameter "actionEvent".(é©Óÿ8…á€‹ƒ2J$259e93ee-2f37-4373-be69-9c6c70181044
+u
+java:S1172Z"2Remove this unused method parameter "actionEvent".(æÓÏş8…á€‹ƒ2J$9bdd19ce-a36d-4273-924d-08525c9fbee4
+u
+java:S1172`"2Remove this unused method parameter "actionEvent".(ÜúÒœ8†á€‹ƒ2J$cf087152-9b4a-4002-baab-76f735a0dc96
+z
+java:S1172f"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8†á€‹ƒ2J$4197c57f-9c6e-42ad-8dac-c2a6ecefd6f9
+ƒ
+java:S1128";Remove this unused import 'org.icet.demo.dto.ViewSupplier'.(†€İˆúÿÿÿÿ8íàåƒ2J$428627d5-e28a-48e0-9dac-a2fec602d18d

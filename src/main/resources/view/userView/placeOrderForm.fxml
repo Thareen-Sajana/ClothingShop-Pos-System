@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="userPlaceOrderAnchor" minHeight="460.0" minWidth="834.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #D8D7D7;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.icet.demo.controller.user.placeOrder.PlaceOrderController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="463.0" layoutY="-2.0" stroke="WHITE" strokeType="INSIDE" width="173.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="71.0" layoutX="137.0" stroke="WHITE" strokeType="INSIDE" width="697.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="305.0" layoutX="187.0" layoutY="141.0" stroke="WHITE" strokeType="INSIDE" width="298.0" />
+      <Line endX="-99.99998474121094" endY="82.99998474121094" layoutX="273.0" layoutY="-6.0" startX="-100.0" stroke="#d8d7d7" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="187.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Place Order">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="52.0" fitWidth="49.0" layoutX="9.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/Main-logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="48.0" fitWidth="69.0" layoutX="657.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/userLogo.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="713.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User@123">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="713.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Text>
+      <Text layoutX="58.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clothify">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Text>
+      <JFXButton layoutX="14.0" layoutY="94.0" onAction="#placeOrderBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #2775FE;" text="Place Order" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="128.0" onAction="#addBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Add" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="162.0" onAction="#viewBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="View" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="197.0" onAction="#updateBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Update" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="232.0" onAction="#removeBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Remove" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="265.0" onAction="#securityBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Security" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="298.0" onAction="#reportBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Report" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="15.0" layoutY="332.0" onAction="#loginBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Login" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="250.0" layoutX="495.0" layoutY="83.0" stroke="WHITE" strokeType="INSIDE" width="329.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="48.0" layoutX="187.0" layoutY="85.0" stroke="WHITE" strokeType="INSIDE" width="298.0" />
+      <Text fx:id="dateTxt" layoutX="200.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2024/06/14">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fx:id="timeTxt" layoutX="390.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="12:08:10">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="201.0" layoutY="170.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select Product">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <JFXComboBox fx:id="productComboBoxId" layoutX="201.0" layoutY="176.0" onAction="#selectProductBox" prefHeight="26.0" prefWidth="271.0" promptText="Select Product" unFocusColor="#797979" />
+      <TextField fx:id="customerNameTxt" layoutX="205.0" layoutY="292.0" prefHeight="22.0" prefWidth="173.0" promptText="Customer Name">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </TextField>
+      <Text layoutX="205.0" layoutY="229.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select Employee">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <JFXComboBox fx:id="employeeComboBoxId" layoutX="205.0" layoutY="232.0" prefHeight="26.0" prefWidth="271.0" promptText="Select Employee" unFocusColor="#797979" />
+      <Text layoutX="205.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Customer Name">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <TextField fx:id="qtyTxt" layoutX="386.0" layoutY="292.0" prefHeight="22.0" prefWidth="89.0" promptText="Qty">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </TextField>
+      <Text layoutX="386.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Qty">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="211.0" layoutY="337.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Payment Type">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <JFXComboBox fx:id="paymentTypeComboBoxId" layoutX="211.0" layoutY="341.0" prefHeight="26.0" prefWidth="264.0" promptText="Select Payment Type" unFocusColor="#797979" />
+      <Text layoutX="211.0" layoutY="393.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Discount Percentage (%)">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <TextField fx:id="discountPercentageTxt" layoutX="212.0" layoutY="402.0" prefHeight="22.0" prefWidth="151.0" promptText="Discount (%)">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </TextField>
+      <Text layoutX="379.0" layoutY="392.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Size">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <JFXComboBox fx:id="sizeComboBoxId" layoutX="380.0" layoutY="395.0" prefHeight="26.0" prefWidth="87.0" promptText="Size" unFocusColor="#797979" />
+      <Text fx:id="orderIdTxt" layoutX="735.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="OR00001">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="646.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Order ID :">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <TableView fx:id="customerOrderTable" layoutX="495.0" layoutY="133.0" prefHeight="200.0" prefWidth="329.0">
+        <columns>
+          <TableColumn fx:id="productNameColumn" prefWidth="145.33328247070312" text="Product Name" />
+          <TableColumn fx:id="sizeColumn" prefWidth="32.26666259765625" text="Size" />
+            <TableColumn fx:id="qtyColumn" prefWidth="32.26666259765625" text="Qty" />
+            <TableColumn fx:id="discountColumn" prefWidth="56.2667236328125" text="Discount" />
+            <TableColumn fx:id="totalColumn" prefWidth="63.46673583984375" text="Total" />
+        </columns>
+      </TableView>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="107.0" layoutX="495.0" layoutY="340.0" stroke="WHITE" strokeType="INSIDE" width="329.0" />
+      <Text layoutX="507.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Net Total :">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text fx:id="netTotalTxt" fill="#eb4034" layoutX="596.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0.00 /=">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <JFXButton fx:id="addOrderBtn" layoutX="515.0" layoutY="409.0" onAction="#addOrderBtn" prefHeight="24.0" prefWidth="108.0" style="-fx-background-color: #2775FE;" text="Add" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="636.0" layoutY="409.0" onAction="#placeOrderDetailsBtn" prefHeight="24.0" prefWidth="173.0" style="-fx-background-color: #F1C40F;" text="Place Order" textFill="#545b06">
+         <font>
+            <Font name="System Bold" size="11.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

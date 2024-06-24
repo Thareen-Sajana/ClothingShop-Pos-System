@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="userViewProductAnchor" minHeight="460.0" minWidth="834.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #D8D7D7;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.icet.demo.controller.user.viewSection.viewProduct.viewProductController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="463.0" layoutY="-2.0" stroke="WHITE" strokeType="INSIDE" width="173.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="71.0" layoutX="137.0" stroke="WHITE" strokeType="INSIDE" width="697.0" />
+      <Line endX="-99.99998474121094" endY="82.99998474121094" layoutX="273.0" layoutY="-6.0" startX="-100.0" stroke="#d8d7d7" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="187.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View Products">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="52.0" fitWidth="49.0" layoutX="9.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/Main-logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="48.0" fitWidth="69.0" layoutX="657.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/userLogo.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="713.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User@123">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="713.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Text>
+      <Text layoutX="58.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clothify">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Text>
+      <JFXButton layoutX="14.0" layoutY="94.0" onAction="#placeOrderBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Place Order" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="128.0" onAction="#addBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Add" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="162.0" onAction="#viewBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #2775FE;" text="View" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="197.0" onAction="#updateBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Update" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="232.0" onAction="#removeBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Remove" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="265.0" onAction="#securityBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Security" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="298.0" onAction="#reportBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Report" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="15.0" layoutY="332.0" onAction="#loginBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Login" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <TableView fx:id="viewProductsTable" layoutX="187.0" layoutY="80.0" prefHeight="369.0" prefWidth="635.0">
+         <columns>
+            <TableColumn fx:id="productIdColumn" prefWidth="90.40000915527344" sortable="false" text="Product ID" />
+            <TableColumn fx:id="productNameColumn" prefWidth="175.199951171875" sortable="false" text="Product Name" />
+            <TableColumn fx:id="supplierNameColumn" prefWidth="118.4000244140625" sortable="false" text="Supplier Name" />
+            <TableColumn fx:id="sizeColumn" prefWidth="37.60003662109375" sortable="false" text="Size" />
+            <TableColumn fx:id="qtyColumn" prefWidth="49.5999755859375" sortable="false" text="Qty" />
+            <TableColumn fx:id="categoryColumn" prefWidth="72.0" sortable="false" text="Category" />
+            <TableColumn fx:id="priceColumn" minWidth="4.00006103515625" prefWidth="97.5999755859375" sortable="false" text="Price" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,33 @@
+
+ 
+java:S1104"]Make addSupplierAnchor a static final constant or non-public and provide accessors if needed.(•“úœ8£ˆ²ä‚2J$29752e36-92b1-424d-8baf-807ac91b8b10
+œ
+java:S1104"YMake supplierIDTxt a static final constant or non-public and provide accessors if needed.(µóóı8£ˆ²ä‚2J$5423e058-ce49-4ec5-8056-0f24e901e6db
+¥
+java:S1104"]Make supplierNameTxtId a static final constant or non-public and provide accessors if needed.(êƒë–ùÿÿÿÿ8£ˆ²ä‚2J$f6564b8b-36f7-485f-a557-659c8d50398f
+¨
+java:S1104"`Make supplierCompanyTxtId a static final constant or non-public and provide accessors if needed.(ß‚æÄúÿÿÿÿ8£ˆ²ä‚2J$4efb2647-04a8-4950-a603-e27e0a4198f9
+¦
+java:S1104"^Make supplierEmailTxtId a static final constant or non-public and provide accessors if needed.(¾ãÖıüÿÿÿÿ8£ˆ²ä‚2J$313534aa-49e4-4792-8abf-5ed89efe2546
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â«÷8¤ˆ²ä‚2J$0444aa36-a3ff-4c19-a69c-763d34c57ff9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÁÑÖúÿÿÿÿ8¥ˆ²ä‚2J$4b1776ae-e552-438c-b421-df6e1b490c27
+z
+java:S1172+"2Remove this unused method parameter "actionEvent".(Ğºª”úÿÿÿÿ8¶ˆ²ä‚2J$d5915e88-983d-457b-b9c7-8607d08728b9
+z
+java:S11721"2Remove this unused method parameter "actionEvent".(şÚŒ³şÿÿÿÿ8¹ˆ²ä‚2J$8c47c73c-c701-4729-a785-f8f2965a9ff7
+z
+java:S11727"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8¹ˆ²ä‚2J$86329e75-b66d-441f-a5e0-483c590d97cb
+z
+java:S1172="2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8ºˆ²ä‚2J$f066c6eb-ff87-4583-9f40-9a7fd06cd4cf
+u
+java:S1172C"2Remove this unused method parameter "actionEvent".(é©Óÿ8ºˆ²ä‚2J$5bc4bd47-dab1-4e12-8931-02bfe9fb1f1b
+u
+java:S1172I"2Remove this unused method parameter "actionEvent".(æÓÏş8»ˆ²ä‚2J$dbe3b84e-d8ab-4e04-96cb-e097b30cfe41
+u
+java:S1172O"2Remove this unused method parameter "actionEvent".(ÜúÒœ8»ˆ²ä‚2J$5062d419-6c21-4154-a85b-45051ff72b62
+z
+java:S1172U"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8»ˆ²ä‚2J$e73e3edb-a0de-43a5-8e48-7339ef06366c
+z
+java:S1172["2Remove this unused method parameter "actionEvent".(ğı²µıÿÿÿÿ8¼ˆ²ä‚2J$4d932907-6e78-4e5b-a68a-ee0baf3b94f5
+~
+java:S1128"6Remove this unused import 'org.icet.demo.util.BoType'.(²ì¥ıÿÿÿÿ8¾È«€ƒ2J$f01033f8-6306-43df-a0a9-b8c5adf2528e

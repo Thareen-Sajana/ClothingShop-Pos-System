@@ -1,0 +1,36 @@
+
+¡
+java:S1104"YMake registerBtnId a static final constant or non-public and provide accessors if needed.(¢™úıÿÿÿÿ8Šé‘2J$6c554fc7-d49b-4245-ab4f-096fd63f520f
+˜
+java:S1104"UMake viewBtnId a static final constant or non-public and provide accessors if needed.(¹•¹–8‚Šé‘2J$e1347cf3-cc1a-4dc6-a439-1ce2f86396b6
+œ
+java:S1104"YMake securityBtnId a static final constant or non-public and provide accessors if needed.(›ş„¤8‚Šé‘2J$be808d95-5cb3-4837-b87d-4daa8a95103a
+
+java:S1104"VMake loginBtnIn a static final constant or non-public and provide accessors if needed.(ô×¯ùÿÿÿÿ8‚Šé‘2J$6fe47b7c-2c71-46e7-8013-e1ef872c7bb6
+¥
+java:S1104"bMake AdminViewSectionAnchor a static final constant or non-public and provide accessors if needed.(¬¨Ú8‚Šé‘2J$9c4334c2-378d-49b2-93fa-63a62090165f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã†ö8‚Šé‘2J$3e4da2f2-3c50-4a66-839e-f4d576cd2c09
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ†Íúÿÿÿÿ8ƒŠé‘2J$ac9603dc-3eaf-44c8-9361-6162f65a9878
+£	java:S116"aRename this field "AdminViewSectionAnchor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¨Ú8–Šé‘2J$0e071711-608f-4cdb-b50c-88ec4af7e0fa
+t
+java:S1172"2Remove this unused method parameter "actionEvent".(İùÓ-8™Šé‘2J$22d03bb1-77df-4086-a051-21684db79d3d
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8Šé‘2J$d62af172-2aef-4a69-8977-04456a8101ea
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(æÓÏş8Šé‘2J$f5013354-b80b-4722-a0d5-0b2ff9d9b070
+z
+java:S1172$"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8ŸŠé‘2J$499cde71-86ba-4522-b20c-377cb8332870
+z
+java:S1172*"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8 Šé‘2J$3e94dd37-7351-456a-9a1e-5bc6d4e6a617
+u
+java:S11720"2Remove this unused method parameter "actionEvent".(é©Óÿ8™ãê‘2J$538e1cfc-658a-4729-94ac-49dfc956351e
+u
+java:S11726"2Remove this unused method parameter "actionEvent".(ÜúÒœ8„Ÿë‘2J$9b91e954-17ad-4dfa-9439-e0f17574621a
+z
+java:S1172<"2Remove this unused method parameter "actionEvent".(„ÍÖÑûÿÿÿÿ8…Ÿë‘2J$bf24f561-56aa-474c-9174-6a765aa74f74
+u
+java:S1172B"2Remove this unused method parameter "actionEvent".(İÑé•8°²¢•2J$6b28f3ab-3b55-430e-9b67-e4b9c02c0c56
+z
+java:S1172H"2Remove this unused method parameter "actionEvent".(äá¨–ûÿÿÿÿ8àş©˜2J$326d56bb-8ab1-4ec8-807f-5c1632999676
+z
+java:S1172N"2Remove this unused method parameter "actionEvent".(“äòÿÿÿÿÿ8×ŒĞ˜2J$503bde7e-7876-476a-971a-8a8f687ccf58

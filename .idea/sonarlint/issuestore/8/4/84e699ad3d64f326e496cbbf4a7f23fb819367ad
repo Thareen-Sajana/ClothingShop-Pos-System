@@ -1,0 +1,31 @@
+
+‰
+java:S1192#"FDefine a constant instead of duplicating this literal "Error" 3 times.(µûø–8ğ½¢´„2J$bf26ca1e-6da4-46fb-ae6d-8dbee901df5a
+“	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê«Ó8Ô¿ ´„2J$43f9d5be-738a-49ff-9d5a-9e59ab45f019
+®
+java:S1104"kMake AdminSecurityFogotPasswodAnchor a static final constant or non-public and provide accessors if needed.(Ü°¼8Õ¿ ´„2J$32104919-6ad7-44bb-9662-25ec1f322ec8
+™
+java:S1104"VMake emailTxtId a static final constant or non-public and provide accessors if needed.(¹ÂÇÕ8Õ¿ ´„2J$f48aa05a-0ed8-47d9-9f34-9d24f5dfcb15
+œ
+java:S1104"TMake otpTxtId a static final constant or non-public and provide accessors if needed.(ÇÖÈ´ùÿÿÿÿ8Õ¿ ´„2J$3593c7d1-0d33-4037-aa6d-11c89200e604
+¡
+java:S1104"YMake passwordTxtId a static final constant or non-public and provide accessors if needed.(©´¬†ıÿÿÿÿ8Õ¿ ´„2J$bb6c3fd4-3540-4b21-8c40-3c2fa85cb6ab
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ş‚â»8Ö¿ ´„2J$180e57de-5a48-4b44-be3e-3289339af604
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉöÜÀüÿÿÿÿ8×¿ ´„2J$1bf13e29-5870-43b0-8364-d367889a8802
+¬	java:S116"jRename this field "AdminSecurityFogotPasswodAnchor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°¼8å¿ ´„2J$80453cde-953d-4f1e-b214-c5da174c469d
+Ä
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´­òİ8å¿ ´„2J$0aaadb3c-bb1e-4ae3-a3e6-f4a0a4709109
+{
+java:S1854 "8Remove this useless assignment to local variable "send".(¹ÅÆƒ8…¾¢´„2J$b75da470-f82c-4427-9f3d-6e541c6a73ab
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(†…±‘8ç¿ ´„2J$174b6198-ab66-4f62-bc55-8b7b5d409226
+l
+java:S1481 ")Remove this unused "send" local variable.(¹ÅÆƒ8‡¾¢´„2J$33f4b42e-016e-4071-9c6d-c11bb46ff48c
+z
+java:S1172)"2Remove this unused method parameter "actionEvent".(ì¬îşÿÿÿÿ8é¿ ´„2J$29c51f69-1859-4898-91d8-4c9da1d3e253
+z
+java:S1172E"2Remove this unused method parameter "actionEvent".(Şò€¢üÿÿÿÿ8‰¾¢´„2J$ab0ce0ff-eddd-4329-8ca6-612edd8b5d5a
+a
+java:S2119P"Save and re-use this "Random".(Ê«Ó8í¿ ´„2J$a962f787-dde5-4893-843e-bb9fa4c8c6b8
+z
+java:S1117Q"7Rename "otp" which hides the field declared at line 25.(Î¿¤ï8í¿ ´„2J$8d07ce3c-b638-4eda-b3d6-8c0f7adacb2f

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="userViewSectionAnchor" minHeight="460.0" minWidth="834.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #D8D7D7;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.icet.demo.controller.user.viewSection.viewSectionController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="463.0" layoutY="-2.0" stroke="WHITE" strokeType="INSIDE" width="173.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="71.0" layoutX="137.0" stroke="WHITE" strokeType="INSIDE" width="697.0" />
+      <Line endX="-99.99998474121094" endY="82.99998474121094" layoutX="273.0" layoutY="-6.0" startX="-100.0" stroke="#d8d7d7" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="187.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="52.0" fitWidth="49.0" layoutX="9.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/Main-logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="48.0" fitWidth="69.0" layoutX="657.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/userLogo.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="713.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User@123">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="713.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Text>
+      <Text layoutX="58.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clothify">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Text>
+      <JFXButton layoutX="14.0" layoutY="94.0" onAction="#placeOrderBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Place Order" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="128.0" onAction="#addBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Add" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="162.0" onAction="#viewBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #2775FE;" text="View" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="197.0" onAction="#updateBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Update" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="232.0" onAction="#removeBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Remove" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="265.0" onAction="#securityBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Security" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="298.0" onAction="#reportBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Report" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="15.0" layoutY="332.0" onAction="#loginBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Login" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="363.0" layoutX="187.0" layoutY="84.0" stroke="WHITE" strokeType="INSIDE" width="635.0" />
+      <JFXButton layoutX="384.0" layoutY="176.0" onAction="#viewUserBtn" prefHeight="25.0" prefWidth="203.0" style="-fx-background-color: #2775FE;" text="View Users" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="384.0" layoutY="217.0" onAction="#viewProductBtn" prefHeight="25.0" prefWidth="203.0" style="-fx-background-color: #2775FE;" text="View Products" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="384.0" layoutY="260.0" onAction="#viewSupplierBtn" prefHeight="25.0" prefWidth="203.0" style="-fx-background-color: #2775FE;" text="View Supplier" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="384.0" layoutY="299.0" onAction="#viewOrderBtn" prefHeight="25.0" prefWidth="203.0" style="-fx-background-color: #2775FE;" text="View Orders" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

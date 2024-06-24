@@ -1,0 +1,69 @@
+
+r
+java:S3740$"/Provide the parametrized type for this generic.(ÎşÚ‡8©µà»‚2J$2cdc2e1b-5ca4-456e-94ad-91a753105681
+w
+java:S3740%"/Provide the parametrized type for this generic.(—£ı–ûÿÿÿÿ8©µà»‚2J$3260d07b-b985-4142-8f04-ae196a45bd03
+r
+java:S3740&"/Provide the parametrized type for this generic.(ò¥¬›8©µà»‚2J$2c1aef61-280f-4689-8b16-fbb2503b4e58
+
+java:S1104#"VMake loginBtnId a static final constant or non-public and provide accessors if needed.(áá–øıÿÿÿÿ8ªµà»‚2J$7edce2e9-fcf1-466b-a89b-6fccd104b804
+Ÿ
+java:S1104$"\Make genderComboBoxId a static final constant or non-public and provide accessors if needed.(ÎşÚ‡8ªµà»‚2J$8703f61b-7357-4949-8d19-d45a8e483a24
+¢
+java:S1104%"ZMake roleComboBoxId a static final constant or non-public and provide accessors if needed.(—£ı–ûÿÿÿÿ8ªµà»‚2J$615dffb8-570a-4355-b66b-584e446cd4f2
+¡
+java:S1104&"^Make positionComboBoxId a static final constant or non-public and provide accessors if needed.(ò¥¬›8ªµà»‚2J$3fe03459-db32-404e-99d3-74805da83515
+ª
+java:S1104'"gMake adminUserRegistrationAnchor a static final constant or non-public and provide accessors if needed.(ÀµŒõ8ªµà»‚2J$b7821bb8-b513-48d8-9709-ecc8b72639d6
+˜
+java:S1104("UMake viewBtnId a static final constant or non-public and provide accessors if needed.(¹•¹–8ªµà»‚2J$6cfe0a97-b02f-4850-86ab-a577e504e1a4
+š
+java:S1104)"WMake updateBtnId a static final constant or non-public and provide accessors if needed.(–­üü8ªµà»‚2J$25362cdb-40f5-42ce-8e93-c603d57df1f8
+š
+java:S1104*"WMake removeBtnId a static final constant or non-public and provide accessors if needed.(â¼ªÌ8ªµà»‚2J$d9c25f7e-0eaa-4517-81fe-1b698dfbacf4
+œ
+java:S1104+"YMake securityBtnId a static final constant or non-public and provide accessors if needed.(›ş„¤8ªµà»‚2J$1969af9e-f591-4c1b-8777-7f4e443c11e8
+Ÿ
+java:S1104,"WMake reportBtnId a static final constant or non-public and provide accessors if needed.(Ê† Æùÿÿÿÿ8ªµà»‚2J$ef10b81c-c3c0-4d3b-a809-cc45643d4bb5
+
+java:S1104-"UMake userIdTxt a static final constant or non-public and provide accessors if needed.(»Şÿÿÿÿÿ8ªµà»‚2J$4a310ead-f3d0-4a1c-9817-338ed59f9776
+
+java:S1104."ZMake firstNameTxtId a static final constant or non-public and provide accessors if needed.(·†İĞ8ªµà»‚2J$8b790eeb-9a30-4bf5-9690-bd94b6158f8e
+¡
+java:S1104/"YMake lastNameTxtId a static final constant or non-public and provide accessors if needed.(°¢§•ûÿÿÿÿ8ªµà»‚2J$c3815a24-0029-4332-8e06-7d99d80e5a46
+™
+java:S11040"VMake emailTxtId a static final constant or non-public and provide accessors if needed.(¹ÂÇÕ8ªµà»‚2J$f1323b1f-13ff-42d3-a00e-103b0d02a69f
+œ
+java:S11041"ZMake contactNoTxtId a static final constant or non-public and provide accessors if needed.(ù‰n8ªµà»‚2J$3e8c5208-17f1-4489-9731-d7158d9a3767
+¡
+java:S11042"YMake passwordTxtId a static final constant or non-public and provide accessors if needed.(©´¬†ıÿÿÿÿ8ªµà»‚2J$0487fc6f-0e93-4333-853e-061b5a03f746
+¡
+java:S11043"YMake birthdayTxtId a static final constant or non-public and provide accessors if needed.(‚óÒãÿÿÿÿÿ8ªµà»‚2J$fcff6f65-20e6-43ae-bb6a-3a618912a2b9
+”	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬‡‚âûÿÿÿÿ8«µà»‚2J$2bc53cbf-02ef-4b89-b24f-a12d487556df
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìá‹Ö8­µà»‚2J$1e153dba-85df-4dc6-a616-363dcf82bee6
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(å¥§âıÿÿÿÿ8Áµà»‚2J$610b2bb2-cd30-4e82-a558-d829c4ba2779
+~	java:S125]"<This block of commented-out lines of code should be removed.(ùŠÎ8Áµà»‚2J$68be1810-7182-4b00-a9d9-38fe87264e7d
+z
+java:S1172j"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8Âµà»‚2J$add9c27c-be29-41b2-b63e-d172b75eedde
+z
+java:S1172p"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8Æµà»‚2J$ee1142f9-5ed0-4679-974f-901d4033ecbd
+z
+java:S1172v"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8Æµà»‚2J$02261785-261f-4afc-81be-7406b62dd1e6
+u
+java:S1172|"2Remove this unused method parameter "actionEvent".(é©Óÿ8Æµà»‚2J$6ec0f437-f046-44e9-b6eb-97c0dbb5571b
+v
+java:S1172‚"2Remove this unused method parameter "actionEvent".(æÓÏş8Çµà»‚2J$3cb750f4-476f-4515-87f6-ffeff80e1c14
+v
+java:S1172ˆ"2Remove this unused method parameter "actionEvent".(ÜúÒœ8Çµà»‚2J$b4786535-95b4-405c-bf0a-7b658d81ff0c
+{
+java:S1172"2Remove this unused method parameter "actionEvent".(®Ììüÿÿÿÿ8Èµà»‚2J$0e6b0bad-4375-4e5e-b28f-bad90164f69d
+{
+java:S1172Û"2Remove this unused method parameter "actionEvent".(½ù”ëıÿÿÿÿ8Êµà»‚2J$47096177-3eac-412c-a385-34aea0004a5b
+Š
+java:S1126ö"AReplace this if-then-else statement by a single return statement.(¥˜¢üÿÿÿÿÿ8Ëµà»‚2J$e0db9ff6-d4c0-462b-a2c8-190b468aab96
+z
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8¾‰â»‚2J$be3d8755-aec3-4094-ad56-948f2792b353
+
+java:S1128"<Remove this unused import 'org.icet.demo.entity.UserEntity'.(¨ƒ¯€8¾‰â»‚2J$c8781599-45a6-47ed-b3b8-12dbf6e7c277
+€
+java:S1128"=Remove this unused import 'org.icet.demo.util.HibernateUtil'.(–Ù±‘8¾‰â»‚2J$a7e57330-6ed6-4486-bc3d-caf8677304a4

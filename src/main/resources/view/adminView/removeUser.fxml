@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="adminRemoveUserAnchor" minHeight="460.0" minWidth="834.0" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #D8D7D7;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.icet.demo.controller.admin.removeSection.removeUser.removeUserController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="463.0" layoutY="-2.0" stroke="WHITE" strokeType="INSIDE" width="173.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="71.0" layoutX="137.0" stroke="WHITE" strokeType="INSIDE" width="697.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="363.0" layoutX="187.0" layoutY="83.0" stroke="WHITE" strokeType="INSIDE" width="635.0" />
+      <Line endX="-99.99998474121094" endY="82.99998474121094" layoutX="273.0" layoutY="-6.0" startX="-100.0" stroke="#d8d7d7" />
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text layoutX="187.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Remove User">
+         <font>
+            <Font name="System Bold" size="25.0" />
+         </font>
+      </Text>
+      <ImageView fitHeight="52.0" fitWidth="49.0" layoutX="9.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/Main-logo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="48.0" fitWidth="69.0" layoutX="657.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../img/userLogo.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="713.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User@123">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="713.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Admin">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Text>
+      <Text layoutX="58.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clothify">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Text>
+      <JFXButton layoutX="14.0" layoutY="94.0" onAction="#registerBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Register" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="128.0" onAction="#viewBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="View" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="162.0" onAction="#updateBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Update" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="197.0" onAction="#removeBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #2775FE;" text="Remove" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="232.0" onAction="#securityBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Security" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="265.0" onAction="#reportBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Report" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="14.0" layoutY="298.0" onAction="#loginBtn" prefHeight="27.0" prefWidth="145.0" style="-fx-background-color: #e3e3e3;" text="Login" textFill="#6d6b6b">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </JFXButton>
+      <TextField fx:id="searchIdTxt" layoutX="587.0" layoutY="109.0" prefHeight="26.0" prefWidth="125.0" promptText="Enter User ID" />
+      <Text layoutX="223.0" layoutY="169.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="428.0" layoutY="168.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Birthday">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <TextField fx:id="userNameTxt" layoutX="223.0" layoutY="176.0" prefHeight="26.0" prefWidth="194.0" promptText="Enter your Full Name" />
+      <TextField fx:id="contactNoTxt" disable="true" layoutX="463.0" layoutY="325.0" prefHeight="26.0" prefWidth="145.0" promptText="071 xxx xxxx" />
+      <TextField fx:id="emailTxt" disable="true" layoutX="223.0" layoutY="325.0" prefHeight="26.0" prefWidth="233.0" promptText="Enter your Email" />
+      <Text layoutX="225.0" layoutY="317.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="464.0" layoutY="317.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Contact No">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="224.0" layoutY="239.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Gender">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="361.0" layoutY="239.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Role">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <Text layoutX="493.0" layoutY="239.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Position">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Text>
+      <JFXButton layoutX="223.0" layoutY="373.0" onAction="#removeUserBtn" prefHeight="27.0" prefWidth="114.0" style="-fx-background-color: #CC362B;" text="Remove" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="715.0" layoutY="108.0" onAction="#searchBtn" prefHeight="27.0" prefWidth="71.0" style="-fx-background-color: #2775FE;" text="Search" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </JFXButton>
+      <JFXComboBox fx:id="genderComboBoxId" layoutX="223.0" layoutY="251.0" prefHeight="26.0" prefWidth="114.0" promptText="Gender" unFocusColor="#797979" />
+      <JFXComboBox fx:id="roleComboBoxId" layoutX="359.0" layoutY="252.0" prefHeight="26.0" prefWidth="114.0" promptText="Role" unFocusColor="#797979" />
+      <JFXComboBox fx:id="positionComboBoxId" layoutX="493.0" layoutY="251.0" prefHeight="26.0" prefWidth="114.0" promptText="Position" unFocusColor="#797979" />
+      <DatePicker fx:id="birthdayTxt" layoutX="428.0" layoutY="176.0" prefHeight="26.0" prefWidth="180.0" promptText="Select your Birthday" />
+   </children>
+</AnchorPane>

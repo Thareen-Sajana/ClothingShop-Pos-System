@@ -1,0 +1,50 @@
+
+‰
+java:S1192Q"FDefine a constant instead of duplicating this literal "Error" 3 times.(µûø–8§ª›¬„2J$68aa707d-886a-46da-8470-76dac7991263
+“	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê«Ó8ªª›¬„2J$14da8d8a-58be-4f76-b7c2-63ab059a70f4
+¢
+java:S1104"_Make AdminSecurityAnchor a static final constant or non-public and provide accessors if needed.(ÖŸ©õ8«ª›¬„2J$e5de30f0-adf9-4a3f-b888-72b6e94bdf3b
+¡
+java:S1104"YMake registerBtnId a static final constant or non-public and provide accessors if needed.(¢™úıÿÿÿÿ8¬ª›¬„2J$b1ca0bf8-2c63-4f04-8ab5-e9d93925cee3
+œ
+java:S1104"YMake securityBtnId a static final constant or non-public and provide accessors if needed.(›ş„¤8¬ª›¬„2J$390eb728-0263-48f3-b60b-0a904a28bf33
+
+java:S1104"VMake loginBtnId a static final constant or non-public and provide accessors if needed.(áá–øıÿÿÿÿ8¬ª›¬„2J$10fbaa0a-680c-4e5f-bb90-fea2e481abf2
+˜
+java:S1104"UMake viewBtnId a static final constant or non-public and provide accessors if needed.(¹•¹–8¬ª›¬„2J$2aacd89a-e10f-49bf-b8b6-e335cf6c413d
+™
+java:S1104"VMake emailTxtId a static final constant or non-public and provide accessors if needed.(¹ÂÇÕ8¬ª›¬„2J$607b349f-b667-4771-9516-02723592617f
+œ
+java:S1104"TMake otpTxtId a static final constant or non-public and provide accessors if needed.(ÇÖÈ´ùÿÿÿÿ8¬ª›¬„2J$d2b86a8d-1c1b-4def-8e14-63fa91b7d75a
+¡
+java:S1104"YMake passwordTxtId a static final constant or non-public and provide accessors if needed.(©´¬†ıÿÿÿÿ8¬ª›¬„2J$ffda86c0-0a2f-4b88-9323-839a601130f8
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô¾‰é8­ª›¬„2J$4dd00cae-484b-4ce0-a62f-8978f39cda19
+ 	java:S116"^Rename this field "AdminSecurityAnchor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖŸ©õ8Öª›¬„2J$de2e4fb1-54a9-4c61-a640-380d1bd2e17b
+t
+java:S1172!"2Remove this unused method parameter "actionEvent".(İùÓ-8Üª›¬„2J$f6f02f5c-0698-4851-a02c-322717c37f39
+u
+java:S1172'"2Remove this unused method parameter "actionEvent".(æÓÏş8äª›¬„2J$90f9b30b-dfc6-4020-aac9-873893868c76
+z
+java:S1172-"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8åª›¬„2J$47bdb7bf-e1c0-4294-b009-99132ed45014
+z
+java:S11723"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8çª›¬„2J$c37ce54b-990b-4812-8ff3-22351efcf5f2
+z
+java:S11729"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8èª›¬„2J$c257776c-7734-481a-bbf0-4101edb3d443
+u
+java:S1172?"2Remove this unused method parameter "actionEvent".(é©Óÿ8éª›¬„2J$aa91a9b8-708e-436e-bd8f-50b581959325
+u
+java:S1172E"2Remove this unused method parameter "actionEvent".(ÜúÒœ8êª›¬„2J$8c07ac3b-c836-4d97-a87e-eadb51e73d1a
+{
+java:S1854N"8Remove this useless assignment to local variable "send".(¹ÅÆƒ8îª›¬„2J$48fba6b1-50bd-469f-8549-7d1b7b4bbee4
+u
+java:S1172K"2Remove this unused method parameter "actionEvent".(´­òİ8îª›¬„2J$681fbb51-b419-46e2-ad12-3b04e36ce484
+l
+java:S1481N")Remove this unused "send" local variable.(¹ÅÆƒ8òª›¬„2J$0c48e7c0-77af-467e-94d9-f5d365453e6e
+z
+java:S1172W"2Remove this unused method parameter "actionEvent".(ì¬îşÿÿÿÿ8óª›¬„2J$9fb00088-da8b-4c1d-bc2c-3cd1b13d3eff
+a
+java:S2119u"Save and re-use this "Random".(Ê«Ó8øª›¬„2J$ddec29da-5065-4a87-a804-625b025174ed
+z
+java:S1117v"7Rename "otp" which hides the field declared at line 30.(Î¿¤ï8ùª›¬„2J$f1ee8071-d4a3-4d57-8c1b-cea57699c8eb
+a
+java:S1128"DRemove this unused import 'org.icet.demo.dto.AuthenticationDetails'.(Ï ë™8ˆ¢ ±„2

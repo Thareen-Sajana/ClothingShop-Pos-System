@@ -1,0 +1,28 @@
+
+¬
+java:S1104"dMake AdminUpdateSectionAnchor a static final constant or non-public and provide accessors if needed.(ÚÙÓùÿÿÿÿ8ìÈÄ“2J$a46f952d-0677-44cd-ad75-a1feb6b2aac1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ©¡ÿøÿÿÿÿ8¡·¡’2J$0ece00e3-8fb5-4420-90b7-8f61836117ee
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öŸ©®ÿÿÿÿÿJ$37f3aa17-6f8d-4e8f-afa0-7e4ac4950499
+ª	java:S116"cRename this field "AdminUpdateSectionAnchor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÙÓùÿÿÿÿ8ñÈÄ“2J$1d66f26f-b1a9-45fe-953c-70db8a0e2b03
+t
+java:S1172"2Remove this unused method parameter "actionEvent".(İùÓ-8ìü”•2J$6a1ef94c-c077-487c-a285-6099bfa860a0
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8ğü”•2J$c5dddc3b-6eee-4544-b860-dd846ce8960c
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8ñü”•2J$4dbca9af-606d-4188-9470-371b74d39f0f
+z
+java:S1172 "2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8ñü”•2J$92f63607-108f-4d60-a46d-0eb9b408a04b
+u
+java:S1172&"2Remove this unused method parameter "actionEvent".(é©Óÿ8òü”•2J$75b23cf7-2470-4815-a3fb-43afc169a325
+u
+java:S1172,"2Remove this unused method parameter "actionEvent".(æÓÏş8¥–˜•2J$9d84fe00-0fa5-4a86-be55-ec9335b774dc
+u
+java:S11722"2Remove this unused method parameter "actionEvent".(ÜúÒœ8‚¼˜•2J$c9943792-7d1b-4230-aa00-91f02d49567a
+z
+java:S11728"2Remove this unused method parameter "actionEvent".(°öñıÿÿÿÿÿ8‚¼˜•2J$b5a2926f-d8fd-4f27-8e90-dc2eac7d27ce
+z
+java:S1172>"2Remove this unused method parameter "actionEvent".(™íîºûÿÿÿÿ8Ø‡£˜2J$9a583017-c14d-4e49-8a08-7e2d02ccc616
+O
+java:S1172D"2Remove this unused method parameter "actionEvent".(ÛÏ¸8™¿Ö˜2
+}
+java:S1128";Remove this unused import 'javafx.application.Application'.(í™şj8ŸÍ£˜2J$b18fd8de-21df-4dab-9651-5e6a164a3355

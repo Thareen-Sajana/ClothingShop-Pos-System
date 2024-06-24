@@ -1,0 +1,45 @@
+
+r
+java:S3740!"/Provide the parametrized type for this generic.(ÎşÚ‡8ˆÀöß‚2J$8d3a9953-0e8f-4a6c-8590-c1cc171af000
+w
+java:S3740""/Provide the parametrized type for this generic.(—£ı–ûÿÿÿÿ8ˆÀöß‚2J$226e2ae5-ca98-4cbd-8fb1-d67784e345cb
+r
+java:S3740#"/Provide the parametrized type for this generic.(ò¥¬›8ˆÀöß‚2J$895a4b9d-59a3-4d32-830b-4aba3dc5f63e
+¤
+java:S1104"aMake adminRemoveUserAnchor a static final constant or non-public and provide accessors if needed.(çñ‰²8ŠÀöß‚2J$8f486a1c-8e15-4bfc-b5a4-7aa9461a4aba
+Ÿ
+java:S1104"WMake searchIdTxt a static final constant or non-public and provide accessors if needed.(±³ÂÈşÿÿÿÿ8ŠÀöß‚2J$13410cde-dfa9-402e-853e-4d9e04c1d20e
+š
+java:S1104"WMake userNameTxt a static final constant or non-public and provide accessors if needed.(ø‡ûğ8ŠÀöß‚2J$8bec3d48-b68b-4118-a269-65ff14269106
+›
+java:S1104"XMake contactNoTxt a static final constant or non-public and provide accessors if needed.(Ş¿¦›8ŠÀöß‚2J$d7ce6db2-c211-4f83-ab63-91e76dac8c10
+—
+java:S1104 "TMake emailTxt a static final constant or non-public and provide accessors if needed.(ÁÒñå8ŠÀöß‚2J$bb5602ec-da69-4cfb-9987-0c5e3f9108c3
+Ÿ
+java:S1104!"\Make genderComboBoxId a static final constant or non-public and provide accessors if needed.(ÎşÚ‡8ŠÀöß‚2J$d1828825-eac5-48e4-a2a4-372bb139f05c
+¢
+java:S1104""ZMake roleComboBoxId a static final constant or non-public and provide accessors if needed.(—£ı–ûÿÿÿÿ8ŠÀöß‚2J$bcadafc6-83c5-4a6f-acdc-90f3a28ffda4
+¡
+java:S1104#"^Make positionComboBoxId a static final constant or non-public and provide accessors if needed.(ò¥¬›8ŠÀöß‚2J$7136ece0-f978-448c-b2f6-0ab64ba2e1fd
+Ÿ
+java:S1104$"WMake birthdayTxt a static final constant or non-public and provide accessors if needed.(Û€­Àûÿÿÿÿ8ŠÀöß‚2J$50ab7db4-dcba-45c5-813e-415fe77eb26f
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸éÖ¸ûÿÿÿÿ8‹Àöß‚2J$3de65510-5671-4839-8d63-7aad9db525c3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ùñÿÿÿÿÿ8Àöß‚2J$ad39f9c4-269b-4eb6-9782-d5818504589f
+t
+java:S11721"2Remove this unused method parameter "actionEvent".(İùÓ-8¬Àöß‚2J$f6d66bcd-61c8-4d3a-a336-9a9bb8b50663
+z
+java:S11727"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8±Àöß‚2J$d3d8832f-4ffc-4f23-b89a-1d9900a06d6d
+z
+java:S1172="2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8³Àöß‚2J$1e640eb8-dc9f-49dd-bd61-4c817227d6b8
+u
+java:S1172C"2Remove this unused method parameter "actionEvent".(é©Óÿ8´Àöß‚2J$8a327414-891e-4fc6-befd-0e5e589f1703
+u
+java:S1172I"2Remove this unused method parameter "actionEvent".(æÓÏş8µÀöß‚2J$7dfa367f-1b4e-41fe-9af1-62254a6324dc
+z
+java:S1172O"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8¶Àöß‚2J$dff9bda6-1718-4d9c-80d4-5908ec97b096
+u
+java:S1172U"2Remove this unused method parameter "actionEvent".(ÜúÒœ8·Àöß‚2J$7826704a-8a16-4d40-b7d9-df3b910b3bfc
+z
+java:S1172["2Remove this unused method parameter "actionEvent".(Òäİ·ùÿÿÿÿ8¸Àöß‚2J$4b0aa12c-0895-4ec0-9a0d-6b09c41089db
+u
+java:S1172{"2Remove this unused method parameter "actionEvent".(„ÏÇ 8ºÀöß‚2J$8db4208d-0a02-429b-bea8-1ce1c67949a6

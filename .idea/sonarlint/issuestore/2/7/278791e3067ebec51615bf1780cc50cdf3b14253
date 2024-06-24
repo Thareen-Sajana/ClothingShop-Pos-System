@@ -1,0 +1,53 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ı“å8ÅŸø°„2J$f1a271c4-47f5-4401-a747-fe601d00dc82
+r
+java:S3740"/Provide the parametrized type for this generic.(”ğà·8ÑÌø°„2J$2813ebd0-554c-4de1-a065-7e71c540d9d2
+r
+java:S3740"/Provide the parametrized type for this generic.(¬Ÿß’8”ïø°„2J$dfba2460-7c8f-4a50-b3be-0ddf02e3ed3b
+w
+java:S3740"/Provide the parametrized type for this generic.(ßšôªúÿÿÿÿ8½–ù°„2J$87b6a966-77d0-4d46-ac0f-0586c48a52b8
+w
+java:S3740"/Provide the parametrized type for this generic.(­‘½—üÿÿÿÿ8™±ù°„2J$ecddb0c2-1f00-4d12-a14b-6c3b45f437d8
+w
+java:S3740"/Provide the parametrized type for this generic.(ÎòçÚşÿÿÿÿ8´Íù°„2J$c66e0ebd-36e2-486d-ab11-281511a5b959
+r
+java:S3740"/Provide the parametrized type for this generic.(Ãè«û8¦ãù°„2J$e650bec4-6652-4668-b244-19a70105ae3f
+r
+java:S3740 "/Provide the parametrized type for this generic.(€ëóş8üıù°„2J$244fe0ff-e368-4802-9bff-90e829c30425
+¡
+java:S1104"^Make userViewUserAnchor a static final constant or non-public and provide accessors if needed.(ı¥ÿŒ8î¸âµ2J$8440154d-c574-4e10-be7c-fc9d2f8b282b
+œ
+java:S1104"YMake viewUserTable a static final constant or non-public and provide accessors if needed.(ı“å8ÆŸø°„2J$76066828-0080-4d4c-8d97-d386e0269a9a
+›
+java:S1104"XMake userIdColomn a static final constant or non-public and provide accessors if needed.(”ğà·8ÒÌø°„2J$7f26d20a-dbb7-44db-be10-39d0ff6bd18c
+
+java:S1104"ZMake userNameColomn a static final constant or non-public and provide accessors if needed.(¬Ÿß’8•ïø°„2J$fb7617fc-a581-4d2d-a2a2-21a7435b1650
+£
+java:S1104"[Make contactNoColomn a static final constant or non-public and provide accessors if needed.(ßšôªúÿÿÿÿ8¾–ù°„2J$f33292d4-949e-4525-8254-4478007e6c59
+¢
+java:S1104"ZMake positionColomn a static final constant or non-public and provide accessors if needed.(­‘½—üÿÿÿÿ8™±ù°„2J$7917cec7-b088-42d6-bfb9-4f08622258ee
+¡
+java:S1104"YMake gentderColomn a static final constant or non-public and provide accessors if needed.(ÎòçÚşÿÿÿÿ8µÍù°„2J$5c0aae8e-fbc8-4513-b107-8c6fa50590f0
+š
+java:S1104"WMake emailColomn a static final constant or non-public and provide accessors if needed.(Ãè«û8§ãù°„2J$624b7e24-b3a2-4455-94bb-c8c159089e02
+
+java:S1104 "ZMake birthdayColomn a static final constant or non-public and provide accessors if needed.(€ëóş8ııù°„2J$46ac6773-6c34-4662-a9ce-c2200e9d75be
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À“Å„ûÿÿÿÿ8«ÖÓ°2J$71ffecc4-dbef-4560-899a-77e228eccc43
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ØëÄJ$ef6d3c3a-d8f6-416c-8347-9b77033daa85
+z
+java:S1172;"2Remove this unused method parameter "actionEvent".(Ğºª”úÿÿÿÿ8öÀ¦¶2J$c9456812-3ebe-4c68-bfe4-44651b030087
+z
+java:S1172A"2Remove this unused method parameter "actionEvent".(şÚŒ³şÿÿÿÿ8ıÀ¦¶2J$476febeb-93a1-4837-b701-42576d549748
+z
+java:S1172G"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8şÀ¦¶2J$550527f3-c452-4d88-b418-f1c6a37a7371
+z
+java:S1172M"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8ÿÀ¦¶2J$20fdb2f6-4ad0-4bf6-84b9-71b4ab179795
+u
+java:S1172S"2Remove this unused method parameter "actionEvent".(é©Óÿ8€Á¦¶2J$522ef8f0-b678-4290-8678-ca71a6fdb587
+u
+java:S1172Y"2Remove this unused method parameter "actionEvent".(æÓÏş8Á¦¶2J$e9714da1-9be2-4e16-a21f-3130a36aec5f
+u
+java:S1172_"2Remove this unused method parameter "actionEvent".(ÜúÒœ8‚Á¦¶2J$8f750209-51ac-4c22-b656-3ff66bcf4470
+z
+java:S1172e"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8ƒÁ¦¶2J$c3c06d32-b065-41e9-9e7e-76eaa43011cc

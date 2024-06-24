@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.21.3.final using JasperReports Library version 6.21.3-4a3078d20785ebe464f18037d738d12fc98c13cf  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="jasper_report_template" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f24e6e3e-fb48-4278-82f8-3e4e5ff36266">
+    <queryString>
+        <![CDATA[]]>
+    </queryString>
+
+    <!-- Define new fields -->
+    <field name="productName" class="java.lang.String">
+        <fieldDescription><![CDATA[productName]]></fieldDescription>
+    </field>
+    <field name="size" class="java.lang.String">
+        <fieldDescription><![CDATA[size]]></fieldDescription>
+    </field>
+    <field name="quantity" class="java.lang.Integer">
+        <fieldDescription><![CDATA[quantity]]></fieldDescription>
+    </field>
+    <field name="discount" class="java.lang.Double">
+        <fieldDescription><![CDATA[discount]]></fieldDescription>
+    </field>
+    <field name="total" class="java.lang.Double">
+        <fieldDescription><![CDATA[total]]></fieldDescription>
+    </field>
+
+    <!-- Title band -->
+    <title>
+        <band height="100" splitType="Stretch">
+            <staticText>
+                <reportElement x="200" y="10" width="180" height="30" uuid="5b792f6d-df4f-4541-af6f-0c0d9baa99b1"/>
+                <textElement textAlignment="Center">
+                    <font size="20" isBold="true"/>
+                </textElement>
+                <text><![CDATA[Clothify Clothing]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="230" y="40" width="120" height="20" uuid="4a4aef80-eef5-4d9a-bbc2-7aaf1f17e8f4"/>
+                <textElement textAlignment="Center"/>
+                <text><![CDATA[Bill Number: OR00001]]></text>
+            </staticText>
+        </band>
+    </title>
+
+    <!-- Column headers -->
+    <columnHeader>
+        <band height="20">
+            <staticText>
+                <reportElement x="0" y="0" width="160" height="20" uuid="c3a4bca4-b11d-439f-bb5e-4f590a9c7055"/>
+                <text><![CDATA[Product Name]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="160" y="0" width="80" height="20" uuid="71b2a11c-ea5d-4b52-b4e1-5e606e4ecfef"/>
+                <text><![CDATA[Size]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="240" y="0" width="50" height="20" uuid="1ed3d070-8f64-4798-9de6-ee8f2e8c125b"/>
+                <text><![CDATA[Qty]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="290" y="0" width="80" height="20" uuid="a43b1836-0c4b-4a52-8c2a-8a37bf9ce967"/>
+                <text><![CDATA[Discount]]></text>
+            </staticText>
+            <staticText>
+                <reportElement x="370" y="0" width="90" height="20" uuid="1e6aa8e2-32de-499d-86f6-b8d52e48d30e"/>
+                <text><![CDATA[Total]]></text>
+            </staticText>
+        </band>
+    </columnHeader>
+
+    <!-- Detail band -->
+    <detail>
+        <band height="20" splitType="Stretch">
+            <textField>
+                <reportElement x="0" y="0" width="160" height="20" uuid="cd7f6e44-3ef1-4f1b-bf73-3b6d4ce03de4"/>
+                <textFieldExpression><![CDATA[$F{productName}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="160" y="0" width="80" height="20" uuid="45d1b20f-8e70-4043-af38-6a54d0e678f2"/>
+                <textFieldExpression><![CDATA[$F{size}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="240" y="0" width="50" height="20" uuid="26a70390-881c-4f43-80bf-0e5a37d12369"/>
+                <textFieldExpression><![CDATA[$F{quantity}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="290" y="0" width="80" height="20" uuid="a14f0505-eb6b-4aa6-b4a1-7b8c4c4c15e8"/>
+                <textFieldExpression><![CDATA[$F{discount}]]></textFieldExpression>
+            </textField>
+            <textField>
+                <reportElement x="370" y="0" width="90" height="20" uuid="d2c2e2b3-75e3-4d72-b95b-90f571e98678"/>
+                <textFieldExpression><![CDATA[$F{total}]]></textFieldExpression>
+            </textField>
+        </band>
+    </detail>
+
+    <!-- Summary band -->
+    <summary>
+        <band height="50" splitType="Stretch">
+            <staticText>
+                <reportElement x="370" y="0" width="90" height="20" uuid="e093f7c4-dc18-44ce-9f97-69fdd88a5b0b"/>
+                <textElement/>
+                <text><![CDATA[Net Total:]]></text>
+            </staticText>
+            <textField>
+                <reportElement x="460" y="0" width="90" height="20" uuid="5c6baf80-0e0c-4f3a-bf36-1a40020a18b8"/>
+                <textFieldExpression><![CDATA[$V{REPORT_COUNT} == 0 ? "" : String.format("%.2f", $V{REPORT_SUM}("total"))]]></textFieldExpression>
+            </textField>
+        </band>
+    </summary>
+</jasperReport>

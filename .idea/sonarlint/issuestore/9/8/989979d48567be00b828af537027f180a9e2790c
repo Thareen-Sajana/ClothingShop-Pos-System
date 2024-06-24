@@ -1,0 +1,26 @@
+
+«
+java:S1104"cMake userUpdateSectionAnchor a static final constant or non-public and provide accessors if needed.(ÍÇËşÿÿÿÿ8§Øàµ2J$1b826f45-2b51-4c90-b640-b3089a9598e2
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µ©¡ÿøÿÿÿÿJ$d797a66c-4561-4034-8763-84d6f3f66554
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¼Ì½úÿÿÿÿJ$267dbc07-621a-43ac-aa63-60d22cb4ac80
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(Ğºª”úÿÿÿÿ8Š–¶2J$115ccc7a-74fb-4a67-ab23-424f6ca964e6
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(şÚŒ³şÿÿÿÿ8•Š–¶2J$c37fdf3d-0a23-46fe-bafd-cbc830575337
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8–Š–¶2J$94835633-140f-4778-a9e5-f2cfd2187cf2
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8—Š–¶2J$441ecac6-65e5-4f91-889f-4d28a96c17b4
+u
+java:S1172%"2Remove this unused method parameter "actionEvent".(é©Óÿ8˜Š–¶2J$71a4015c-7408-4cb8-8d0d-23da9cd65f89
+u
+java:S1172+"2Remove this unused method parameter "actionEvent".(æÓÏş8˜Š–¶2J$fed50a61-63d4-410e-bd1b-78c760be61a3
+u
+java:S11721"2Remove this unused method parameter "actionEvent".(ÜúÒœ8™Š–¶2J$2860d8e8-bb27-4fbb-b96b-63620dd73fa2
+z
+java:S11727"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8šŠ–¶2J$335ee57d-65bb-40fc-9afe-c91f00543451
+z
+java:S1172="2Remove this unused method parameter "actionEvent".(™íîºûÿÿÿÿ8ßúÄ¶2J$2aee0a42-84d6-4020-b3fa-3fdda5229c06
+u
+java:S1172C"2Remove this unused method parameter "actionEvent".(ÛÏ¸8Ş§Ç¶2J$abc38436-0910-4cb5-a0a0-c640b7b1bcc5

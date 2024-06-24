@@ -1,0 +1,30 @@
+
+‹
+java:S1192Y"IDefine a constant instead of duplicating this literal "Clothify" 3 times.(Ç¾²;8ê™¥Ö„2J$29020a2b-29bb-4d1b-8913-aaef32c24440
+Œ
+java:S1192Y"JDefine a constant instead of duplicating this literal "createdBy" 3 times.(Ç¾²;8ë™¥Ö„2J$ecec7ec1-c5a5-4c71-9861-8587ad5a9722
+¤
+java:S1104"\Make userReportAnchor a static final constant or non-public and provide accessors if needed.(àç®»ùÿÿÿÿ8ë™¥Ö„2J$ccc73b3b-f82e-4ca5-84e6-2c834427de4a
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±°…üÿÿÿÿÿ8ì™¥Ö„2J$6eb8564d-318e-4129-9991-b31e3068a96b
+z
+java:S1172"2Remove this unused method parameter "actionEvent".(Ğºª”úÿÿÿÿ8ÿ™¥Ö„2J$2ad9b221-d199-4b23-8cf5-5c5aaaee4c5d
+z
+java:S1172%"2Remove this unused method parameter "actionEvent".(şÚŒ³şÿÿÿÿ8ƒš¥Ö„2J$bdd37430-14ea-4da6-814e-8838b605f939
+z
+java:S1172+"2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8„š¥Ö„2J$dc7850e8-70d7-427a-a665-45c2f1d796f1
+z
+java:S11721"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8…š¥Ö„2J$a359f344-aa9e-46df-9572-e473e6ee4c53
+u
+java:S11727"2Remove this unused method parameter "actionEvent".(é©Óÿ8…š¥Ö„2J$ef1dcb74-97e5-43d3-97fa-b01d00960705
+u
+java:S1172="2Remove this unused method parameter "actionEvent".(æÓÏş8†š¥Ö„2J$4c112d18-950e-4bea-95f9-54fddf1044d2
+u
+java:S1172C"2Remove this unused method parameter "actionEvent".(ÜúÒœ8‡š¥Ö„2J$2f8f17d7-0123-433c-a655-e4aa8e6714cc
+z
+java:S1172I"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8ˆš¥Ö„2J$afd2ae5f-b6a8-4e75-b83d-a2a9e2229206
+z
+java:S1172O"2Remove this unused method parameter "actionEvent".(ÛÕò€ùÿÿÿÿ8Šš¥Ö„2J$6a5ae64a-bb2f-402b-963c-0b41bd4a1409
+u
+java:S1172`"2Remove this unused method parameter "actionEvent".(•Ø±8Œš¥Ö„2J$c2e3a345-188a-4f6f-ba21-8f8caef00f5f
+z
+java:S1172q"2Remove this unused method parameter "actionEvent".(¬Ë•Šúÿÿÿÿ8š¥Ö„2J$ea814d97-91e2-49bf-a0e2-ed948e8a897b

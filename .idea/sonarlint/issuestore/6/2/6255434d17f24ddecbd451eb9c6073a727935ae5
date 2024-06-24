@@ -1,0 +1,31 @@
+
+¨
+java:S1104"eMake adminRemoveSupplierAnchor a static final constant or non-public and provide accessors if needed.(ôËÛÏ8š¥ƒ˜2J$ced873ed-d5e1-4b45-8112-7f8315263417
+œ
+java:S1104"YMake supplierIdTxt a static final constant or non-public and provide accessors if needed.(Ô¦úÄ8ÑÂ·„2J$6b5332a4-3f3d-465d-b77b-02df76d5679c
+›
+java:S1104"SMake nameTxt a static final constant or non-public and provide accessors if needed.(ÂÄªÅùÿÿÿÿ8“õ·„2J$a3968455-2057-4b08-868b-081d15991cef
+
+java:S1104"VMake companyTxt a static final constant or non-public and provide accessors if needed.(üªó÷øÿÿÿÿ8£‚·„2J$af57d661-fc65-46b7-9f98-27876ee86a3b
+—
+java:S1104"TMake emailTxt a static final constant or non-public and provide accessors if needed.(ÁÒñå8÷œ·„2J$4f8574cf-7d1c-42f4-963f-cb788ff884bb
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğ×¥­øÿÿÿÿ8¹†—2J$3d8f3a74-f170-439f-8ca8-703580ec3e69
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Ê°·ùÿÿÿÿJ$07c3f1dd-b822-4b7f-8669-84ae1abf76b5
+t
+java:S1172"2Remove this unused method parameter "actionEvent".(İùÓ-8ôı˜˜2J$2ae08838-32ca-4ad6-9f9f-1e92b00d3e03
+z
+java:S1172 "2Remove this unused method parameter "actionEvent".(şÙÔ¯ùÿÿÿÿ8ûı˜˜2J$7db9e9c0-7eb8-4ead-9588-792170abbac2
+z
+java:S1172&"2Remove this unused method parameter "actionEvent".(µ–ÏÑûÿÿÿÿ8üı˜˜2J$69e08335-7110-4205-bbde-c4d29488eb0a
+u
+java:S1172,"2Remove this unused method parameter "actionEvent".(é©Óÿ8üı˜˜2J$b1a4d2b6-89b9-444b-81b0-c76cbdee5678
+u
+java:S11722"2Remove this unused method parameter "actionEvent".(æÓÏş8ıı˜˜2J$c603cd56-07d6-4788-9522-39aa90ae7823
+z
+java:S11728"2Remove this unused method parameter "actionEvent".(Û¾Ò·úÿÿÿÿ8şı˜˜2J$8ba429f4-6d07-4198-a235-6a97e3894ded
+u
+java:S1172>"2Remove this unused method parameter "actionEvent".(ÜúÒœ8˜ƒİ˜2J$e306382f-8c68-448a-bb22-1c43893c58ca
+z
+java:S1172D"2Remove this unused method parameter "actionEvent".(ËÛÎäşÿÿÿÿ8»Ÿ’·„2J$5fba3e9e-f394-4eab-810a-107a0cd24094
+u
+java:S1172`"2Remove this unused method parameter "actionEvent".(„ÏÇ 8½Ÿ’·„2J$741226c4-766f-432e-a6fe-428c0761edfe
